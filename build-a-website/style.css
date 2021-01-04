@@ -4,12 +4,17 @@ body{
 }
 section{
     height: 500px;
+    padding: 100px;
 }
 h1{
     font-size: 50px;
 }
+h2{
+    font-size: 40px;
+}
 p{
     text-align: justify;
+    color: dimgray;
 }
 .top-banner{
     background-image: url("images/top-banner.png");
@@ -35,4 +40,9 @@ p{
     border-radius: 5px;
     color: white;
     font-weight: 700;
+}
+.dream-area{
+    background-image: url("images/dream-bg.png");
+    background-repeat: no-repeat;
+    background-position: right;
 }
