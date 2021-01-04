@@ -46,3 +46,26 @@ p{
     background-repeat: no-repeat;
     background-position: right;
 }
+.exprience-padding{
+    padding-right: 2%;
+}
+.exprence-area{
+    box-shadow: 10px 10px 50px gray;
+    border-radius: 5px;
+    height: 70%;
+}
+.exp-background{
+    background-image: url("images/exp-bg.png");
+    background-repeat: no-repeat;
+    background-position: left;
+}
+#ione{
+    border-left: 10px solid;
+    border-image: linear-gradient(lightsalmon,tomato);
+    border-image-slice: 1;
+}
+#itwo{
+    border-left: 8px solid;
+    border-image: linear-gradient(blue, cyan);
+    border-image-slice: 1;
+}
