@@ -1,0 +1,21 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+h1{
+    font-size: 50px;
+}
+p{
+    text-align: justify;
+}
+.heading-color{
+    color: orange;
+}
+.first-div{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 1%;
+}
+.first-div img{
+    width: 100%;
+}
